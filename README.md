@@ -22,7 +22,7 @@ Welcome to my GitHub! I am a technical game designer with experience in creating
 ## 📂 Projects
 Here are my projects:
 
-- 🎮 **[City Code: Technology on the Move. Gamified Digital Lesson**](https://xn--h1adlhdnlo2c.xn--p1ai/lessons/kod-goroda)
+- 🎮 **[City Code: Technology on the Move. Gamified Digital Lesson](https://xn--h1adlhdnlo2c.xn--p1ai/lessons/kod-goroda)**
 - 🏆 **[Weather Prediction Technologies. Gamified Digital Lesson](https://xn--h1adlhdnlo2c.xn--p1ai/lessons/pogoda)**
 - 🤖 **[Mini-project: Robo-SOS diamond thief](https://github.com/blazhievskii/unity-essentials)**
 
